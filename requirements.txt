@@ -1,0 +1,23 @@
+# linting:
+black
+flake8
+isort
+pip-tools
+pre-commit
+
+# testing:
+hypothesis
+pytest
+pytest-xdist
+ipython
+jedi
+pdbpp
+gmpy2
+
+# vyper and dev framework:
+git+https://github.com/vyperlang/titanoboa.git@c406d682e11485e07368e2ba9433e6e951e040de
+vyper==0.3.7
+
+# analysis:
+seaborn
+pandas
