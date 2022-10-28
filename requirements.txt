@@ -21,3 +21,12 @@ vyper==0.3.7
 # analysis:
 seaborn
 pandas
+
+Hey Fiddy, hope you're good. Sorry for the PR, i did not find a way to contact you better ;-) 
+Wanted to ask if you help protocols out with development as well on a contractual basis or you're fully committed at this stage?
+
+Cheers,
+Nikolay Shabak
+Product Manager, https://clip.finance
+https://github.com/shabak
+https://twitter.com/nikolayshabak
